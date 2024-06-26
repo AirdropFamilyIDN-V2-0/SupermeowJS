@@ -37,5 +37,9 @@ npm install axios
 ```sh
 node index.js
 ```
+RUN CLEAR TASK
+```sh
+node clear_task
+```sh
 ## Channel Telegram
 - [AirdropFamilyIDN](https://t.me/AirdropFamilyIDN)
