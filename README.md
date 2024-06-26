@@ -34,12 +34,13 @@ cd SupermeowJS
 ```sh
 npm install axios
 ```
+#### Run Klaim Farming
 ```sh
 node index.js
 ```
-RUN CLEAR TASK
+#### Run Clear Task
 ```sh
 node clear_task
-```sh
+```
 ## Channel Telegram
 - [AirdropFamilyIDN](https://t.me/AirdropFamilyIDN)
