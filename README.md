@@ -2,8 +2,9 @@
 ![Screenshot 2024-06-27 022059](https://github.com/AirdropFamilyIDN-V2-0/SupermeowJS/assets/169606426/b605dd6f-09d7-4822-9712-cc638f76fbf5)
 
 ## Features
-- Klaim Farming
+- Klaim Farming ( free / fee AVAX )
 - Klaim Daily
+- Daily Checkin ( fee AVAX )
 - Clear Task
 - Multi Account
 
@@ -40,7 +41,7 @@ node index.js
 ```
 #### Run Clear Task
 ```sh
-node clear_task
+node clear_task.js
 ```
 ## Channel Telegram
 - [AirdropFamilyIDN](https://t.me/AirdropFamilyIDN)
